@@ -1,0 +1,13 @@
+{
+"companyName": "NoriaEntertainment",
+"productName": "LuckyShot.CannonAim",
+"dataUrl": "Bubble Shooter.data.unityweb",
+"wasmCodeUrl": "Bubble Shooter.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bubble Shooter.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
